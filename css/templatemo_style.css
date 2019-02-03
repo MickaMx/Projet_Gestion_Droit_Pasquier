@@ -542,25 +542,13 @@ h6 {
   background-image: url(../images/logos/logo-Microsoft-visual-studio.png);
 }
 .service-item .service-icon.deux {
-  background-image: url(../images/logos/logo-azure.png);
+  background-image: url(../images/logos/logo-js.png);
 }
 .service-item .service-icon.trois {
-  background-image: url(../images/logos/logo-dotNet);
+  background-image: url(../images/logos/logo-NetCore1.png);
 }
 .service-item .service-icon.quatre {
-  background-image: url(../images/logos/logo-MSSQL.png);
-}
-.service-item .service-icon.cinq {
-  background-image: url(../images/logos/logo-winform.jpg);
-}
-.service-item .service-icon.six {
-  background-image: url(../images/logos/logo-github.png);
-}
-.service-item .service-icon.sept {
-  background-image: url(../images/logos/logo-git.png);
-}
-.service-item .service-icon.huit {
-  background-image: url(../images/logos/logo-office.png);
+  background-image: url(../images/logos/logo-vuejs.png);
 }
 /* ==========================================================================
     Promotion Styling
